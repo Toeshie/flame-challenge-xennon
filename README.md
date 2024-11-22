@@ -1,3 +1,3 @@
-# xennon_clone
+# Flame Engine prototype
 
-A new Flutter project.
+To play the game use the WASD and Space keys!
